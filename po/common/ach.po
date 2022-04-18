@@ -1931,7 +1931,7 @@ msgstr ""
 
 msgctxt "reset_password"
 msgid "Reset password"
-msgstr "Wa g wa"
+msgstr ""
 
 msgctxt "reset_password_email_body"
 msgid "Hello <NAME>,\n\n"
@@ -2248,7 +2248,7 @@ msgstr ""
 
 msgctxt "select_country"
 msgid "Country"
-msgstr "A"
+msgstr ""
 
 msgctxt "select_lang"
 msgid "Language"
@@ -2901,7 +2901,7 @@ msgstr ""
 
 msgctxt "exposure_description_95th"
 msgid "over 5%"
-msgstr "ترجمة"
+msgstr ""
 
 msgctxt "exposure_title_mean"
 msgid "Most people"
@@ -5565,7 +5565,7 @@ msgstr ""
 
 msgctxt "ecoscore_origins_of_ingredients_impact_high"
 msgid "Origins of ingredients with a high impact"
-msgstr "ีหรห"
+msgstr ""
 
 msgctxt "ecoscore_origins_of_ingredients_impact_medium"
 msgid "Origins of ingredients with a medium impact"
